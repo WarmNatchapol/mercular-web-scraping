@@ -24,7 +24,7 @@ $~$
 
 It contains 3 sections:
 
-1. Get HTML fromwebsite
+1. Get HTML from website
 2. Extract data from HTML
 3. Export as csv file
 
